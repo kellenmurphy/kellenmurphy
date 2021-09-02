@@ -1,4 +1,3 @@
-#### :point_right: About Me 
 <small>
 
 My name is Kellen Murphy, I'm a former astrophysicist turned software engineer with [@idmengineering](https://github.com/idmengineering) and [@bcsengineering](https://github.com/bcsengineering). It was kind of a long and winding road to get to where I am today, and as a result I've got familiarity with a LOT of different technologies and stacks, coupled with the well-honed problem solving skills of a cosmologist. 
@@ -15,7 +14,7 @@ The complete list of "stuff I work with" is far too long to list here, but I'm a
 
 </small>
 
-#### :envelope: How to Reach Me
+#### Contact Info
 
 Mode   | Personal                                                                                                 | Professional 
 -----  | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------
