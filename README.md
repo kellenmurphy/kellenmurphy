@@ -1,6 +1,6 @@
 <small>
 
-My name is Kellen Murphy, I'm an astrophysicist-turned-engineer with [@idmengineering](https://github.com/idmengineering) and [@bcsengineering](https://github.com/bcsengineering). It was kind of a long and winding road to get to where I am today, and as a result I've got familiarity with a LOT of different technologies and stacks, coupled with the well-honed problem solving skills of a cosmologist. 
+My name is Kellen Murphy, I'm an cosmologist-turned-engineer with [@idmengineering](https://github.com/idmengineering) and [@bcsengineering](https://github.com/bcsengineering). It was kind of a long and winding road to get to where I am today, and as a result I've got familiarity with a LOT of different technologies and stacks, coupled with the well-honed problem solving skills of a classically trained physicist.
 
 My main area of responsibility is partnering with clients to develop Identity and Access Managment solutions built around SAML and OAuth 2.0 / OIDC:
 
