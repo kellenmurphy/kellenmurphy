@@ -5,6 +5,7 @@ My name is Kellen Murphy, I'm an cosmologist-turned-engineer with [@idmengineeri
 My main area of responsibility is partnering with clients to develop Identity and Access Managment solutions built around SAML and OAuth 2.0 / OIDC:
 
 - Shibboleth
+- SimpleSAMLphp
 - Microsoft ADFS
 - Azure AD
 - AWS Cognito
