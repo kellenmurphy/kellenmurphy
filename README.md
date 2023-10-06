@@ -1,12 +1,7 @@
-<small>
+My name is Kellen Murphy, I'm a member of the Identity and Access Management team for the [University of Virginia's Information Technology Services](https://virginia.service-now.com/its/) division.
 
-My name is Kellen Murphy, I'm an cosmologist turned software engineer. I specialize in building and supporting Identity and Access Managment solutions built around SAML and OAuth 2.0 / OIDC, including:
+I have broad experience in the IAM space, though I specialize in building and supporting solutions built around SAML and OAuth 2.0 / OIDC, including components of the InCommon [Trusted Access Platform (TAP)](https://incommon.org/trusted-access/). I'm the "[Grouper](https://incommon.org/software/grouper/) Guy" at UVA, and as a former commercial support provider for [Shibboleth](https://www.shibboleth.net/), have substantial experience in the authentication and authorization space.
 
-- Shibboleth
-- SimpleSAMLphp
-- Microsoft ADFS
-- Azure AD
-- AWS Cognito
-- Keycloak
+The complete list of "stuff I work with" is far too long to list here... but I speak Java, Python, and JS in addition to SAML 😉. I've helped to replace development environments in the IAM space at UVA with [Vagrant](https://www.vagrantup.com/)-provisioned virtual machines that mimic our [Docker](https://www.docker.com/) environment. My days are split between dev/ops and containerization of our deployments and the **real** work of IAM: governance, administration, and policy.
 
-The complete list of "stuff I work with" is far too long to list here, but I'm a daily user of PHP, Python, and Javascript. I've also spent more time with Java than I'd have liked to but generally only within the Shibboleth IDP customization space.
+We're building cool stuff at UVA and I look forward to assisting with the deployment of the latest identity solutions for all of my fellow Hoos!
